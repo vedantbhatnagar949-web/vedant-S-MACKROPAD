@@ -64,7 +64,7 @@ Your images go here (upload them to repo → copy raw URL → replace):
 
 🟩 PCB Layout
 
-![PCB](PCB_IMAGE_URL)
+![PCB](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/3dc53364e76417392b3968a57ba18b01744b9de8/pcb%20des.png)
 
 
 ---

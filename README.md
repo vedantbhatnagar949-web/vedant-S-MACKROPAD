@@ -75,7 +75,8 @@ Your case files (.f3d or .step) are inside /case/.
 
 Add preview image:
 
-![Case](CASE_IMAGE_URL)
+![Back Case](backcase front .png)
+![Front case](frontcase .png)
 
 
 ---

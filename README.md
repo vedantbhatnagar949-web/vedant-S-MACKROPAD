@@ -56,11 +56,9 @@ Perfect for Hackclub Blueprint tickets, open-source hardware, DIY projects, and 
 
 📐 PCB / Schematic
 
-Your images go here (upload them to repo → copy raw URL → replace):
-
 🔌 Schematic
 
-![Schematic](SCHEMATIC_IMAGE_URL)
+![Schematic](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/1364d90de13d43829589b1bbd7c382d976398bfb/schematic.png)
 
 🟩 PCB Layout
 
@@ -71,7 +69,7 @@ Your images go here (upload them to repo → copy raw URL → replace):
 
 🧱 Case Design (Fusion 360)
 
-Your case files (.f3d or .step) are inside /case/.
+ .step are inside
 
 Add preview image:
 

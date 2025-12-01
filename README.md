@@ -76,7 +76,7 @@ Your case files (.f3d or .step) are inside /case/.
 Add preview image:
 
 ![Back Case](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/2fd6a118e8726c50f836976779d45e232714b1f4/backcase%20front%20.png)
-![Front case](frontcase .png)
+![Front case](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/99a38b4c000b6e2918b5b748da4f7820e364b738/front%20case.png)
 
 
 ---

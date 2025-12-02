@@ -11,7 +11,7 @@ i am putting the images spots below, will update properly later when i take good
 
 schematic
 
-[schematic](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/da429db636afa3cb869a2a0c094e078e3de7dd26/schematic.png)
+[SCHEMATIC](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/da429db636afa3cb869a2a0c094e078e3de7dd26/schematic.png)
 
 
 
@@ -24,7 +24,7 @@ pcb
 
 case front
 
-(front case photo placeholder)
+[FRONT CASE](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/78ce62a6bea8f68e8388640d30c76820ba9dfea6/front%20case.png)
 
 
 

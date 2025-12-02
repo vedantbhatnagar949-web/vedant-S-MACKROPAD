@@ -11,7 +11,7 @@ i am putting the images spots below, will update properly later when i take good
 
 schematic
 
-(image goes here, will add later)
+(https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/da429db636afa3cb869a2a0c094e078e3de7dd26/schematic.png)
 
 
 

@@ -19,8 +19,7 @@ schematic
 
 pcb
 
-(i will put the actual pcb front render later when i export it)
-
+[PCB](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/a93480ac6d85b206d4dd6df75c4135081e9516b6/pcb%20des.png)
 
 
 case front

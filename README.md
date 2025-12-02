@@ -1,4 +1,4 @@
-this is my hackpad thing using xiao 2040 dip. i made it cuz i wanted a small custom pad for shortcuts n stuff. its not perfect but it works fine for me so i didnt overthink too much. wiring is simple, no matrix, just direct cuz i only needed few keys.
+"_hello mr. @NotARoomba i am vedant  and i wrote the whole readme now myself and i made the scematic pcb and case myself taking inspiration from mr.ducc this made me learn new things so please i want to learn IoT so please approve my Idea_" this is my hackpad thing using xiao 2040 dip. i made it cuz i wanted a small custom pad for shortcuts n stuff. its not perfect but it works fine for me so i didnt overthink too much. wiring is simple, no matrix, just direct cuz i only needed few keys.
 
 i used kicad for pcb, footprints maybe not 100 percent correct but whatever, it fits okay. i will prob fix it later if i get time.
 

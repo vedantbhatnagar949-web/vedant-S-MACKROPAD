@@ -32,8 +32,7 @@ case front
 
 case back
 
-(back case photo placeholder)
-
+[BACK CASE](https://github.com/vedantbhatnagar949-web/vedant-S-MACKROPAD/blob/d9eca90243039ad1d2cf03d34709129624e449f1/backcase%20front%20.png)
 
 
 ---
